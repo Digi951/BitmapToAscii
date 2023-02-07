@@ -1,12 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "doWH05ZfXXcD7wnZqkQpxHTzlYa77A+K7kM2r9/ulLwIbr5O0lnViV7LlgNk3aRtD27gtO/xLcqPG46fhMcHDw==",
+  "dgSpecHash": "NkVPhhRyScb2jHFQ6qT3aVkRMilFyZSLRmOBDtAxCgGI4DHepfMfntDzWzPjhtlCCDP/ZwxCAQIaUcehwI8yyg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\anm2\\source\\repos\\BitmapToAscii\\BitmapToAscii\\BitmapToAscii.csproj",
+  "projectFilePath": "/Users/digi/Programmierung/BitmapToAscii/BitmapToAscii/BitmapToAscii.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\anm2\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
-    "C:\\Users\\anm2\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
-    "C:\\Users\\anm2\\.nuget\\packages\\system.drawing.common\\5.0.2\\system.drawing.common.5.0.2.nupkg.sha512"
+    "/Users/digi/.nuget/packages/microsoft.win32.systemevents/7.0.0/microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "/Users/digi/.nuget/packages/system.drawing.common/7.0.0/system.drawing.common.7.0.0.nupkg.sha512"
   ],
   "logs": []
 }

@@ -1,32 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\anm2\\source\\repos\\BitmapToAscii\\BitmapToAscii\\BitmapToAscii.csproj": {}
+    "/Users/digi/Programmierung/BitmapToAscii/BitmapToAscii/BitmapToAscii.csproj": {}
   },
   "projects": {
-    "C:\\Users\\anm2\\source\\repos\\BitmapToAscii\\BitmapToAscii\\BitmapToAscii.csproj": {
+    "/Users/digi/Programmierung/BitmapToAscii/BitmapToAscii/BitmapToAscii.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\anm2\\source\\repos\\BitmapToAscii\\BitmapToAscii\\BitmapToAscii.csproj",
+        "projectUniqueName": "/Users/digi/Programmierung/BitmapToAscii/BitmapToAscii/BitmapToAscii.csproj",
         "projectName": "BitmapToAscii",
-        "projectPath": "C:\\Users\\anm2\\source\\repos\\BitmapToAscii\\BitmapToAscii\\BitmapToAscii.csproj",
-        "packagesPath": "C:\\Users\\anm2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\anm2\\source\\repos\\BitmapToAscii\\BitmapToAscii\\obj\\",
+        "projectPath": "/Users/digi/Programmierung/BitmapToAscii/BitmapToAscii/BitmapToAscii.csproj",
+        "packagesPath": "/Users/digi/.nuget/packages/",
+        "outputPath": "/Users/digi/Programmierung/BitmapToAscii/BitmapToAscii/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\anm2\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/digi/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net5.0"
+          "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "/usr/local/share/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {}
           }
         },
@@ -37,12 +36,12 @@
         }
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "dependencies": {
             "System.Drawing.Common": {
               "target": "Package",
-              "version": "[5.0.2, )"
+              "version": "[7.0.0, )"
             }
           },
           "imports": [
@@ -51,7 +50,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.200-preview.22628.1/RuntimeIdentifierGraph.json"
         }
       }
     }
